@@ -27,7 +27,7 @@ dependencies:
     git:
       url: https://github.com/Luciferx86/plugins.git
       path: packages/local_auth/local_auth_android
-      ref: local-auth-android-fix
+      ref: dart-3
   local_auth_ios: ^1.0.1
   local_auth_platform_interface: ^1.0.1
   local_auth_windows: ^1.0.0
@@ -42,5 +42,3 @@ dev_dependencies:
   mockito: ^5.1.0
   plugin_platform_interface: ^2.1.2
 
-dependency_overrides:
-  intl: ^0.18.0
