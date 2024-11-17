@@ -1,3 +1,8 @@
+## 1.0.19
+
+* Allowing empty localizedReason for Android
+
+
 ## 1.0.18
 
 * Updates minimum Flutter version to 3.0.
